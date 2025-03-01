@@ -16,4 +16,8 @@ This repo is dedicated to store the solutions to problems on Leetcode , Codeforc
 |  |
 | ------- |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/YishakG/A2SV-Solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+## Linked List
+|  |
+| ------- |
+| [0092-reverse-linked-list-ii](https://github.com/YishakG/A2SV-Solutions/tree/master/0092-reverse-linked-list-ii) |
 <!---LeetCode Topics End-->
