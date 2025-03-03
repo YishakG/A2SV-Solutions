@@ -5,8 +5,6 @@ class Solution:
         
         """
         nums.sort()
-        maxs = 0
-        window = sum(nums[-3:])
         l , r = len(nums) - 3 , -1
         while l >= 0:
             if nums[l] + nums[l+1] > nums[r]:
@@ -14,4 +12,4 @@ class Solution:
             else:
                 r -= 1
             l -= 1
-        return maxs
+        return 0
