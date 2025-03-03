@@ -10,7 +10,7 @@ class Solution:
         l , r = len(nums) - 3 , -1
         while l >= 0:
             if nums[l] + nums[l+1] > nums[r]:
-                maxs = max(maxs,nums[l] + nums[l+1] + nums[r])
+                return nums[l] + nums[l+1] + nums[r]
             else:
                 r -= 1
             l -= 1
