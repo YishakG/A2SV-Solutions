@@ -32,6 +32,7 @@ This repo is dedicated to store the solutions to problems on Leetcode , Codeforc
 | [0020-valid-parentheses](https://github.com/YishakG/A2SV-Solutions/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/YishakG/A2SV-Solutions/tree/master/0071-simplify-path) |
 | [1582-design-browser-history](https://github.com/YishakG/A2SV-Solutions/tree/master/1582-design-browser-history) |
+| [2470-removing-stars-from-a-string](https://github.com/YishakG/A2SV-Solutions/tree/master/2470-removing-stars-from-a-string) |
 ## Design
 |  |
 | ------- |
@@ -69,9 +70,14 @@ This repo is dedicated to store the solutions to problems on Leetcode , Codeforc
 | [0020-valid-parentheses](https://github.com/YishakG/A2SV-Solutions/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/YishakG/A2SV-Solutions/tree/master/0071-simplify-path) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/YishakG/A2SV-Solutions/tree/master/1341-split-a-string-in-balanced-strings) |
+| [2470-removing-stars-from-a-string](https://github.com/YishakG/A2SV-Solutions/tree/master/2470-removing-stars-from-a-string) |
 | [3055-maximum-odd-binary-number](https://github.com/YishakG/A2SV-Solutions/tree/master/3055-maximum-odd-binary-number) |
 ## Counting
 |  |
 | ------- |
 | [1341-split-a-string-in-balanced-strings](https://github.com/YishakG/A2SV-Solutions/tree/master/1341-split-a-string-in-balanced-strings) |
+## Simulation
+|  |
+| ------- |
+| [2470-removing-stars-from-a-string](https://github.com/YishakG/A2SV-Solutions/tree/master/2470-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
