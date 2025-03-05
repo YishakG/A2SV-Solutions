@@ -36,6 +36,7 @@ This repo is dedicated to store the solutions to problems on Leetcode , Codeforc
 ## Design
 |  |
 | ------- |
+| [0969-number-of-recent-calls](https://github.com/YishakG/A2SV-Solutions/tree/master/0969-number-of-recent-calls) |
 | [1582-design-browser-history](https://github.com/YishakG/A2SV-Solutions/tree/master/1582-design-browser-history) |
 ## Doubly-Linked List
 |  |
@@ -44,6 +45,7 @@ This repo is dedicated to store the solutions to problems on Leetcode , Codeforc
 ## Data Stream
 |  |
 | ------- |
+| [0969-number-of-recent-calls](https://github.com/YishakG/A2SV-Solutions/tree/master/0969-number-of-recent-calls) |
 | [1582-design-browser-history](https://github.com/YishakG/A2SV-Solutions/tree/master/1582-design-browser-history) |
 ## Math
 |  |
@@ -80,4 +82,8 @@ This repo is dedicated to store the solutions to problems on Leetcode , Codeforc
 |  |
 | ------- |
 | [2470-removing-stars-from-a-string](https://github.com/YishakG/A2SV-Solutions/tree/master/2470-removing-stars-from-a-string) |
+## Queue
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/YishakG/A2SV-Solutions/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
