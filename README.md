@@ -29,6 +29,7 @@ This repo is dedicated to store the solutions to problems on Leetcode , Codeforc
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/YishakG/A2SV-Solutions/tree/master/0020-valid-parentheses) |
 | [1582-design-browser-history](https://github.com/YishakG/A2SV-Solutions/tree/master/1582-design-browser-history) |
 ## Design
 |  |
@@ -56,4 +57,8 @@ This repo is dedicated to store the solutions to problems on Leetcode , Codeforc
 |  |
 | ------- |
 | [1018-largest-perimeter-triangle](https://github.com/YishakG/A2SV-Solutions/tree/master/1018-largest-perimeter-triangle) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/YishakG/A2SV-Solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
