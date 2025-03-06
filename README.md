@@ -9,6 +9,7 @@ This repo is dedicated to store the solutions to problems on Leetcode , Codeforc
 | [0001-two-sum](https://github.com/YishakG/A2SV-Solutions/tree/master/0001-two-sum) |
 | [0055-jump-game](https://github.com/YishakG/A2SV-Solutions/tree/master/0055-jump-game) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/YishakG/A2SV-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0496-next-greater-element-i](https://github.com/YishakG/A2SV-Solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/YishakG/A2SV-Solutions/tree/master/0739-daily-temperatures) |
 | [0890-lemonade-change](https://github.com/YishakG/A2SV-Solutions/tree/master/0890-lemonade-change) |
 | [1018-largest-perimeter-triangle](https://github.com/YishakG/A2SV-Solutions/tree/master/1018-largest-perimeter-triangle) |
@@ -18,6 +19,7 @@ This repo is dedicated to store the solutions to problems on Leetcode , Codeforc
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/YishakG/A2SV-Solutions/tree/master/0001-two-sum) |
+| [0496-next-greater-element-i](https://github.com/YishakG/A2SV-Solutions/tree/master/0496-next-greater-element-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -33,6 +35,7 @@ This repo is dedicated to store the solutions to problems on Leetcode , Codeforc
 | ------- |
 | [0020-valid-parentheses](https://github.com/YishakG/A2SV-Solutions/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/YishakG/A2SV-Solutions/tree/master/0071-simplify-path) |
+| [0496-next-greater-element-i](https://github.com/YishakG/A2SV-Solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/YishakG/A2SV-Solutions/tree/master/0739-daily-temperatures) |
 | [1582-design-browser-history](https://github.com/YishakG/A2SV-Solutions/tree/master/1582-design-browser-history) |
 | [2470-removing-stars-from-a-string](https://github.com/YishakG/A2SV-Solutions/tree/master/2470-removing-stars-from-a-string) |
@@ -94,5 +97,6 @@ This repo is dedicated to store the solutions to problems on Leetcode , Codeforc
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/YishakG/A2SV-Solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/YishakG/A2SV-Solutions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
