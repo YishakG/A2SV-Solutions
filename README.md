@@ -8,6 +8,7 @@ This repo is dedicated to store the solutions to problems on Leetcode , Codeforc
 | ------- |
 | [0001-two-sum](https://github.com/YishakG/A2SV-Solutions/tree/master/0001-two-sum) |
 | [0055-jump-game](https://github.com/YishakG/A2SV-Solutions/tree/master/0055-jump-game) |
+| [0739-daily-temperatures](https://github.com/YishakG/A2SV-Solutions/tree/master/0739-daily-temperatures) |
 | [0890-lemonade-change](https://github.com/YishakG/A2SV-Solutions/tree/master/0890-lemonade-change) |
 | [1018-largest-perimeter-triangle](https://github.com/YishakG/A2SV-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1582-design-browser-history](https://github.com/YishakG/A2SV-Solutions/tree/master/1582-design-browser-history) |
@@ -31,6 +32,7 @@ This repo is dedicated to store the solutions to problems on Leetcode , Codeforc
 | ------- |
 | [0020-valid-parentheses](https://github.com/YishakG/A2SV-Solutions/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/YishakG/A2SV-Solutions/tree/master/0071-simplify-path) |
+| [0739-daily-temperatures](https://github.com/YishakG/A2SV-Solutions/tree/master/0739-daily-temperatures) |
 | [1582-design-browser-history](https://github.com/YishakG/A2SV-Solutions/tree/master/1582-design-browser-history) |
 | [2470-removing-stars-from-a-string](https://github.com/YishakG/A2SV-Solutions/tree/master/2470-removing-stars-from-a-string) |
 ## Design
@@ -86,4 +88,8 @@ This repo is dedicated to store the solutions to problems on Leetcode , Codeforc
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/YishakG/A2SV-Solutions/tree/master/0969-number-of-recent-calls) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/YishakG/A2SV-Solutions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
