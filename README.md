@@ -38,6 +38,7 @@ This repo is dedicated to store the solutions to problems on Leetcode , Codeforc
 | [0071-simplify-path](https://github.com/YishakG/A2SV-Solutions/tree/master/0071-simplify-path) |
 | [0496-next-greater-element-i](https://github.com/YishakG/A2SV-Solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/YishakG/A2SV-Solutions/tree/master/0739-daily-temperatures) |
+| [0874-backspace-string-compare](https://github.com/YishakG/A2SV-Solutions/tree/master/0874-backspace-string-compare) |
 | [1582-design-browser-history](https://github.com/YishakG/A2SV-Solutions/tree/master/1582-design-browser-history) |
 | [1720-crawler-log-folder](https://github.com/YishakG/A2SV-Solutions/tree/master/1720-crawler-log-folder) |
 | [2470-removing-stars-from-a-string](https://github.com/YishakG/A2SV-Solutions/tree/master/2470-removing-stars-from-a-string) |
@@ -81,6 +82,7 @@ This repo is dedicated to store the solutions to problems on Leetcode , Codeforc
 | ------- |
 | [0020-valid-parentheses](https://github.com/YishakG/A2SV-Solutions/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/YishakG/A2SV-Solutions/tree/master/0071-simplify-path) |
+| [0874-backspace-string-compare](https://github.com/YishakG/A2SV-Solutions/tree/master/0874-backspace-string-compare) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/YishakG/A2SV-Solutions/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1720-crawler-log-folder](https://github.com/YishakG/A2SV-Solutions/tree/master/1720-crawler-log-folder) |
 | [2470-removing-stars-from-a-string](https://github.com/YishakG/A2SV-Solutions/tree/master/2470-removing-stars-from-a-string) |
@@ -92,6 +94,7 @@ This repo is dedicated to store the solutions to problems on Leetcode , Codeforc
 ## Simulation
 |  |
 | ------- |
+| [0874-backspace-string-compare](https://github.com/YishakG/A2SV-Solutions/tree/master/0874-backspace-string-compare) |
 | [2470-removing-stars-from-a-string](https://github.com/YishakG/A2SV-Solutions/tree/master/2470-removing-stars-from-a-string) |
 ## Queue
 |  |
@@ -102,4 +105,8 @@ This repo is dedicated to store the solutions to problems on Leetcode , Codeforc
 | ------- |
 | [0496-next-greater-element-i](https://github.com/YishakG/A2SV-Solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/YishakG/A2SV-Solutions/tree/master/0739-daily-temperatures) |
+## Two Pointers
+|  |
+| ------- |
+| [0874-backspace-string-compare](https://github.com/YishakG/A2SV-Solutions/tree/master/0874-backspace-string-compare) |
 <!---LeetCode Topics End-->
