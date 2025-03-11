@@ -60,6 +60,7 @@ This repo is dedicated to store the solutions to problems on Leetcode , Codeforc
 ## Math
 |  |
 | ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/YishakG/A2SV-Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [1018-largest-perimeter-triangle](https://github.com/YishakG/A2SV-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/YishakG/A2SV-Solutions/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [3055-maximum-odd-binary-number](https://github.com/YishakG/A2SV-Solutions/tree/master/3055-maximum-odd-binary-number) |
