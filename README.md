@@ -8,6 +8,7 @@ This repo is dedicated to store the solutions to problems on Leetcode , Codeforc
 | ------- |
 | [0001-two-sum](https://github.com/YishakG/A2SV-Solutions/tree/master/0001-two-sum) |
 | [0055-jump-game](https://github.com/YishakG/A2SV-Solutions/tree/master/0055-jump-game) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/YishakG/A2SV-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/YishakG/A2SV-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0496-next-greater-element-i](https://github.com/YishakG/A2SV-Solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/YishakG/A2SV-Solutions/tree/master/0739-daily-temperatures) |
@@ -37,6 +38,7 @@ This repo is dedicated to store the solutions to problems on Leetcode , Codeforc
 | ------- |
 | [0020-valid-parentheses](https://github.com/YishakG/A2SV-Solutions/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/YishakG/A2SV-Solutions/tree/master/0071-simplify-path) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/YishakG/A2SV-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/YishakG/A2SV-Solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/YishakG/A2SV-Solutions/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/YishakG/A2SV-Solutions/tree/master/0874-backspace-string-compare) |
@@ -60,6 +62,7 @@ This repo is dedicated to store the solutions to problems on Leetcode , Codeforc
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/YishakG/A2SV-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/YishakG/A2SV-Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0342-power-of-four](https://github.com/YishakG/A2SV-Solutions/tree/master/0342-power-of-four) |
 | [1018-largest-perimeter-triangle](https://github.com/YishakG/A2SV-Solutions/tree/master/1018-largest-perimeter-triangle) |
