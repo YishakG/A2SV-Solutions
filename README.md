@@ -39,6 +39,7 @@ This repo is dedicated to store the solutions to problems on Leetcode , Codeforc
 | ------- |
 | [0020-valid-parentheses](https://github.com/YishakG/A2SV-Solutions/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/YishakG/A2SV-Solutions/tree/master/0071-simplify-path) |
+| [0144-binary-tree-preorder-traversal](https://github.com/YishakG/A2SV-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/YishakG/A2SV-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0456-132-pattern](https://github.com/YishakG/A2SV-Solutions/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/YishakG/A2SV-Solutions/tree/master/0496-next-greater-element-i) |
@@ -138,4 +139,16 @@ This repo is dedicated to store the solutions to problems on Leetcode , Codeforc
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/YishakG/A2SV-Solutions/tree/master/0456-132-pattern) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/YishakG/A2SV-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/YishakG/A2SV-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/YishakG/A2SV-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
