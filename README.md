@@ -15,6 +15,7 @@ This repo is dedicated to store the solutions to problems on Leetcode , Codeforc
 | [0739-daily-temperatures](https://github.com/YishakG/A2SV-Solutions/tree/master/0739-daily-temperatures) |
 | [0890-lemonade-change](https://github.com/YishakG/A2SV-Solutions/tree/master/0890-lemonade-change) |
 | [1018-largest-perimeter-triangle](https://github.com/YishakG/A2SV-Solutions/tree/master/1018-largest-perimeter-triangle) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/YishakG/A2SV-Solutions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1582-design-browser-history](https://github.com/YishakG/A2SV-Solutions/tree/master/1582-design-browser-history) |
 | [1720-crawler-log-folder](https://github.com/YishakG/A2SV-Solutions/tree/master/1720-crawler-log-folder) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/YishakG/A2SV-Solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -115,6 +116,7 @@ This repo is dedicated to store the solutions to problems on Leetcode , Codeforc
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/YishakG/A2SV-Solutions/tree/master/0969-number-of-recent-calls) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/YishakG/A2SV-Solutions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -141,6 +143,7 @@ This repo is dedicated to store the solutions to problems on Leetcode , Codeforc
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/YishakG/A2SV-Solutions/tree/master/0456-132-pattern) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/YishakG/A2SV-Solutions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Tree
 |  |
 | ------- |
@@ -159,4 +162,16 @@ This repo is dedicated to store the solutions to problems on Leetcode , Codeforc
 | [0094-binary-tree-inorder-traversal](https://github.com/YishakG/A2SV-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/YishakG/A2SV-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/YishakG/A2SV-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+## Sliding Window
+|  |
+| ------- |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/YishakG/A2SV-Solutions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/YishakG/A2SV-Solutions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Monotonic Queue
+|  |
+| ------- |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/YishakG/A2SV-Solutions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 <!---LeetCode Topics End-->
