@@ -151,6 +151,7 @@ This repo is dedicated to store the solutions to problems on Leetcode , Codeforc
 | [0144-binary-tree-preorder-traversal](https://github.com/YishakG/A2SV-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/YishakG/A2SV-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/YishakG/A2SV-Solutions/tree/master/0783-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/YishakG/A2SV-Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -164,6 +165,7 @@ This repo is dedicated to store the solutions to problems on Leetcode , Codeforc
 | [0144-binary-tree-preorder-traversal](https://github.com/YishakG/A2SV-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/YishakG/A2SV-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/YishakG/A2SV-Solutions/tree/master/0783-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/YishakG/A2SV-Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Sliding Window
 |  |
 | ------- |
@@ -180,4 +182,5 @@ This repo is dedicated to store the solutions to problems on Leetcode , Codeforc
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/YishakG/A2SV-Solutions/tree/master/0783-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/YishakG/A2SV-Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
