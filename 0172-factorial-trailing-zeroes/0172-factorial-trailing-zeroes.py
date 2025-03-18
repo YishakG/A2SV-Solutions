@@ -1,5 +1,6 @@
 class Solution:
     # # o(n) approach
+    # recursive method of factorial but iterative for trailing 
     # def factorial(self,n):
     #     if n <= 1:
     #         return 1
@@ -11,11 +12,10 @@ class Solution:
     #         trailing_zeros += 1
     #         fact //= 10
     #     return trailing_zeros
-    def factorial(self,n):
+    
+    def trailingZeroes(self, n: int) -> int: 
         if n < 5:
             return 0
-        return n // 5 + self.factorial(n//5)
-    def trailingZeroes(self, n: int) -> int: 
-        return self.factorial(n)
+        return n // 5 + self.trailingZeroes(n//5)
          
          
