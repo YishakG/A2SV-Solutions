@@ -47,6 +47,7 @@ This repo is dedicated to store the solutions to problems on Leetcode , Codeforc
 | [0456-132-pattern](https://github.com/YishakG/A2SV-Solutions/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/YishakG/A2SV-Solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/YishakG/A2SV-Solutions/tree/master/0739-daily-temperatures) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/YishakG/A2SV-Solutions/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0874-backspace-string-compare](https://github.com/YishakG/A2SV-Solutions/tree/master/0874-backspace-string-compare) |
 | [0886-score-of-parentheses](https://github.com/YishakG/A2SV-Solutions/tree/master/0886-score-of-parentheses) |
 | [1582-design-browser-history](https://github.com/YishakG/A2SV-Solutions/tree/master/1582-design-browser-history) |
@@ -151,6 +152,7 @@ This repo is dedicated to store the solutions to problems on Leetcode , Codeforc
 | [0144-binary-tree-preorder-traversal](https://github.com/YishakG/A2SV-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/YishakG/A2SV-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0450-delete-node-in-a-bst](https://github.com/YishakG/A2SV-Solutions/tree/master/0450-delete-node-in-a-bst) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/YishakG/A2SV-Solutions/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/YishakG/A2SV-Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/YishakG/A2SV-Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Depth-First Search
@@ -159,6 +161,7 @@ This repo is dedicated to store the solutions to problems on Leetcode , Codeforc
 | [0094-binary-tree-inorder-traversal](https://github.com/YishakG/A2SV-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/YishakG/A2SV-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/YishakG/A2SV-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/YishakG/A2SV-Solutions/tree/master/0775-n-ary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
