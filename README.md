@@ -72,6 +72,7 @@ This repo is dedicated to store the solutions to problems on Leetcode , Codeforc
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/YishakG/A2SV-Solutions/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/YishakG/A2SV-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/YishakG/A2SV-Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0342-power-of-four](https://github.com/YishakG/A2SV-Solutions/tree/master/0342-power-of-four) |
@@ -137,6 +138,7 @@ This repo is dedicated to store the solutions to problems on Leetcode , Codeforc
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/YishakG/A2SV-Solutions/tree/master/0050-powx-n) |
 | [0342-power-of-four](https://github.com/YishakG/A2SV-Solutions/tree/master/0342-power-of-four) |
 ## Binary Search
 |  |
