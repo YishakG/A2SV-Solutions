@@ -12,6 +12,7 @@ class Solution:
             if n == 1:
               return x
             a = b = self.myPow(x,n//2)
+            
             if n % 2:
                 b *= x
             return a * b
