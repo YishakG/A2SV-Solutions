@@ -1,14 +1,38 @@
 class Solution:
     def combine(self, n: int, k: int) -> List[List[int]]:
-        path = []
+        """
+        arr = 1 2 3
+        k = 2
+
+        path = [1, 2, 3]
+                                         []
+                
+                         [1]                            []
+
+                   [1, 2]   [1]                   [2]        []
+
+    [1, 2, 3]  [1, 2]       [1, 3] [1]         [2, 3] [2]  [3]   []
+
+
+
+
+
+        """
         ans = []
-        def backtrack(start):
+        def bt(idx, path):
+
             if len(path) == k:
-                ans.append(path[:])
-                return 
-            for candidate in range(start+1,n+1):
-                path.append(candidate)
-                backtrack(candidate)
-                path.pop()
-        backtrack(0)
+                ans.append(path)
+                return
+
+            if idx == n + 1:
+                return
+
+            bt(idx + 1, path[:] + [idx])
+            bt(idx + 1, path[:])
+
+            return
+
+        bt(1, [])
+
         return ans
