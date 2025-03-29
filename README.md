@@ -166,6 +166,7 @@ This repo is dedicated to store the solutions to problems on Leetcode , Codeforc
 | [0144-binary-tree-preorder-traversal](https://github.com/YishakG/A2SV-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/YishakG/A2SV-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0450-delete-node-in-a-bst](https://github.com/YishakG/A2SV-Solutions/tree/master/0450-delete-node-in-a-bst) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/YishakG/A2SV-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/YishakG/A2SV-Solutions/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/YishakG/A2SV-Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/YishakG/A2SV-Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -176,6 +177,7 @@ This repo is dedicated to store the solutions to problems on Leetcode , Codeforc
 | [0101-symmetric-tree](https://github.com/YishakG/A2SV-Solutions/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/YishakG/A2SV-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/YishakG/A2SV-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/YishakG/A2SV-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/YishakG/A2SV-Solutions/tree/master/0775-n-ary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
@@ -185,6 +187,7 @@ This repo is dedicated to store the solutions to problems on Leetcode , Codeforc
 | [0144-binary-tree-preorder-traversal](https://github.com/YishakG/A2SV-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/YishakG/A2SV-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0450-delete-node-in-a-bst](https://github.com/YishakG/A2SV-Solutions/tree/master/0450-delete-node-in-a-bst) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/YishakG/A2SV-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0783-search-in-a-binary-search-tree](https://github.com/YishakG/A2SV-Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/YishakG/A2SV-Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Sliding Window
@@ -213,4 +216,5 @@ This repo is dedicated to store the solutions to problems on Leetcode , Codeforc
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/YishakG/A2SV-Solutions/tree/master/0101-symmetric-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/YishakG/A2SV-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 <!---LeetCode Topics End-->
