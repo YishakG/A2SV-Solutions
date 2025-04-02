@@ -20,6 +20,7 @@ This repo is dedicated to store the solutions to problems on Leetcode , Codeforc
 | [0890-lemonade-change](https://github.com/YishakG/A2SV-Solutions/tree/master/0890-lemonade-change) |
 | [1018-largest-perimeter-triangle](https://github.com/YishakG/A2SV-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/YishakG/A2SV-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/YishakG/A2SV-Solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/YishakG/A2SV-Solutions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1582-design-browser-history](https://github.com/YishakG/A2SV-Solutions/tree/master/1582-design-browser-history) |
 | [1720-crawler-log-folder](https://github.com/YishakG/A2SV-Solutions/tree/master/1720-crawler-log-folder) |
@@ -157,6 +158,7 @@ This repo is dedicated to store the solutions to problems on Leetcode , Codeforc
 | [0456-132-pattern](https://github.com/YishakG/A2SV-Solutions/tree/master/0456-132-pattern) |
 | [0792-binary-search](https://github.com/YishakG/A2SV-Solutions/tree/master/0792-binary-search) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/YishakG/A2SV-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/YishakG/A2SV-Solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 ## Ordered Set
 |  |
 | ------- |
