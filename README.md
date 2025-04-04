@@ -26,6 +26,7 @@ This repo is dedicated to store the solutions to problems on Leetcode , Codeforc
 | [1582-design-browser-history](https://github.com/YishakG/A2SV-Solutions/tree/master/1582-design-browser-history) |
 | [1720-crawler-log-folder](https://github.com/YishakG/A2SV-Solutions/tree/master/1720-crawler-log-folder) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/YishakG/A2SV-Solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/YishakG/A2SV-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/YishakG/A2SV-Solutions/tree/master/3351-maximize-happiness-of-selected-children) |
 ## Hash Table
 |  |
@@ -87,6 +88,7 @@ This repo is dedicated to store the solutions to problems on Leetcode , Codeforc
 | [0342-power-of-four](https://github.com/YishakG/A2SV-Solutions/tree/master/0342-power-of-four) |
 | [1018-largest-perimeter-triangle](https://github.com/YishakG/A2SV-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/YishakG/A2SV-Solutions/tree/master/1303-minimum-moves-to-reach-target-score) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/YishakG/A2SV-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3055-maximum-odd-binary-number](https://github.com/YishakG/A2SV-Solutions/tree/master/3055-maximum-odd-binary-number) |
 ## Greedy
 |  |
@@ -127,12 +129,14 @@ This repo is dedicated to store the solutions to problems on Leetcode , Codeforc
 |  |
 | ------- |
 | [0874-backspace-string-compare](https://github.com/YishakG/A2SV-Solutions/tree/master/0874-backspace-string-compare) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/YishakG/A2SV-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2470-removing-stars-from-a-string](https://github.com/YishakG/A2SV-Solutions/tree/master/2470-removing-stars-from-a-string) |
 ## Queue
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/YishakG/A2SV-Solutions/tree/master/0969-number-of-recent-calls) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/YishakG/A2SV-Solutions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/YishakG/A2SV-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -153,6 +157,7 @@ This repo is dedicated to store the solutions to problems on Leetcode , Codeforc
 | [0050-powx-n](https://github.com/YishakG/A2SV-Solutions/tree/master/0050-powx-n) |
 | [0342-power-of-four](https://github.com/YishakG/A2SV-Solutions/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/YishakG/A2SV-Solutions/tree/master/0394-decode-string) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/YishakG/A2SV-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Binary Search
 |  |
 | ------- |
