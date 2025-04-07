@@ -11,6 +11,7 @@ This repo is dedicated to store the solutions to problems on Leetcode , Codeforc
 | [0055-jump-game](https://github.com/YishakG/A2SV-Solutions/tree/master/0055-jump-game) |
 | [0119-pascals-triangle-ii](https://github.com/YishakG/A2SV-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/YishakG/A2SV-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0268-missing-number](https://github.com/YishakG/A2SV-Solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/YishakG/A2SV-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/YishakG/A2SV-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/YishakG/A2SV-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -33,6 +34,7 @@ This repo is dedicated to store the solutions to problems on Leetcode , Codeforc
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/YishakG/A2SV-Solutions/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/YishakG/A2SV-Solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/YishakG/A2SV-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/YishakG/A2SV-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/YishakG/A2SV-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -87,6 +89,7 @@ This repo is dedicated to store the solutions to problems on Leetcode , Codeforc
 | [0050-powx-n](https://github.com/YishakG/A2SV-Solutions/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/YishakG/A2SV-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/YishakG/A2SV-Solutions/tree/master/0172-factorial-trailing-zeroes) |
+| [0268-missing-number](https://github.com/YishakG/A2SV-Solutions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/YishakG/A2SV-Solutions/tree/master/0342-power-of-four) |
 | [1018-largest-perimeter-triangle](https://github.com/YishakG/A2SV-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/YishakG/A2SV-Solutions/tree/master/1303-minimum-moves-to-reach-target-score) |
@@ -106,6 +109,7 @@ This repo is dedicated to store the solutions to problems on Leetcode , Codeforc
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/YishakG/A2SV-Solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/YishakG/A2SV-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/YishakG/A2SV-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1018-largest-perimeter-triangle](https://github.com/YishakG/A2SV-Solutions/tree/master/1018-largest-perimeter-triangle) |
@@ -154,6 +158,7 @@ This repo is dedicated to store the solutions to problems on Leetcode , Codeforc
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/YishakG/A2SV-Solutions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/YishakG/A2SV-Solutions/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
@@ -167,6 +172,7 @@ This repo is dedicated to store the solutions to problems on Leetcode , Codeforc
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/YishakG/A2SV-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0268-missing-number](https://github.com/YishakG/A2SV-Solutions/tree/master/0268-missing-number) |
 | [0456-132-pattern](https://github.com/YishakG/A2SV-Solutions/tree/master/0456-132-pattern) |
 | [0792-binary-search](https://github.com/YishakG/A2SV-Solutions/tree/master/0792-binary-search) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/YishakG/A2SV-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
