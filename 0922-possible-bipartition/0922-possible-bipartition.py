@@ -3,6 +3,7 @@ class Solution:
         colors = [-1] * (n+1)
         graph = defaultdict(list)
         
+        # change the edge list to adjacency list
         for u , v in dislikes:
             graph[u].append(v)
             graph[v].append(u)
