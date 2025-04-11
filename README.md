@@ -210,6 +210,7 @@ This repo is dedicated to store the solutions to problems on Leetcode , Codeforc
 | [0463-island-perimeter](https://github.com/YishakG/A2SV-Solutions/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/YishakG/A2SV-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/YishakG/A2SV-Solutions/tree/master/0775-n-ary-tree-preorder-traversal) |
+| [0801-is-graph-bipartite](https://github.com/YishakG/A2SV-Solutions/tree/master/0801-is-graph-bipartite) |
 | [2121-find-if-path-exists-in-graph](https://github.com/YishakG/A2SV-Solutions/tree/master/2121-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -254,6 +255,7 @@ This repo is dedicated to store the solutions to problems on Leetcode , Codeforc
 | [0207-course-schedule](https://github.com/YishakG/A2SV-Solutions/tree/master/0207-course-schedule) |
 | [0463-island-perimeter](https://github.com/YishakG/A2SV-Solutions/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/YishakG/A2SV-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0801-is-graph-bipartite](https://github.com/YishakG/A2SV-Solutions/tree/master/0801-is-graph-bipartite) |
 | [2121-find-if-path-exists-in-graph](https://github.com/YishakG/A2SV-Solutions/tree/master/2121-find-if-path-exists-in-graph) |
 ## Divide and Conquer
 |  |
@@ -270,11 +272,13 @@ This repo is dedicated to store the solutions to problems on Leetcode , Codeforc
 ## Union Find
 |  |
 | ------- |
+| [0801-is-graph-bipartite](https://github.com/YishakG/A2SV-Solutions/tree/master/0801-is-graph-bipartite) |
 | [2121-find-if-path-exists-in-graph](https://github.com/YishakG/A2SV-Solutions/tree/master/2121-find-if-path-exists-in-graph) |
 ## Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/YishakG/A2SV-Solutions/tree/master/0207-course-schedule) |
+| [0801-is-graph-bipartite](https://github.com/YishakG/A2SV-Solutions/tree/master/0801-is-graph-bipartite) |
 | [1039-find-the-town-judge](https://github.com/YishakG/A2SV-Solutions/tree/master/1039-find-the-town-judge) |
 | [2121-find-if-path-exists-in-graph](https://github.com/YishakG/A2SV-Solutions/tree/master/2121-find-if-path-exists-in-graph) |
 ## Matrix
