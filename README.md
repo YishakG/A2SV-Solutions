@@ -23,6 +23,7 @@ This repo is dedicated to store the solutions to problems on Leetcode , Codeforc
 | [0792-binary-search](https://github.com/YishakG/A2SV-Solutions/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/YishakG/A2SV-Solutions/tree/master/0890-lemonade-change) |
 | [1018-largest-perimeter-triangle](https://github.com/YishakG/A2SV-Solutions/tree/master/1018-largest-perimeter-triangle) |
+| [1039-find-the-town-judge](https://github.com/YishakG/A2SV-Solutions/tree/master/1039-find-the-town-judge) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/YishakG/A2SV-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/YishakG/A2SV-Solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/YishakG/A2SV-Solutions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -40,6 +41,7 @@ This repo is dedicated to store the solutions to problems on Leetcode , Codeforc
 | [0442-find-all-duplicates-in-an-array](https://github.com/YishakG/A2SV-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/YishakG/A2SV-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/YishakG/A2SV-Solutions/tree/master/0496-next-greater-element-i) |
+| [1039-find-the-town-judge](https://github.com/YishakG/A2SV-Solutions/tree/master/1039-find-the-town-judge) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -273,6 +275,7 @@ This repo is dedicated to store the solutions to problems on Leetcode , Codeforc
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/YishakG/A2SV-Solutions/tree/master/0207-course-schedule) |
+| [1039-find-the-town-judge](https://github.com/YishakG/A2SV-Solutions/tree/master/1039-find-the-town-judge) |
 | [2121-find-if-path-exists-in-graph](https://github.com/YishakG/A2SV-Solutions/tree/master/2121-find-if-path-exists-in-graph) |
 ## Matrix
 |  |
