@@ -19,6 +19,7 @@ This repo is dedicated to store the solutions to problems on Leetcode , Codeforc
 | [0456-132-pattern](https://github.com/YishakG/A2SV-Solutions/tree/master/0456-132-pattern) |
 | [0463-island-perimeter](https://github.com/YishakG/A2SV-Solutions/tree/master/0463-island-perimeter) |
 | [0496-next-greater-element-i](https://github.com/YishakG/A2SV-Solutions/tree/master/0496-next-greater-element-i) |
+| [0721-accounts-merge](https://github.com/YishakG/A2SV-Solutions/tree/master/0721-accounts-merge) |
 | [0739-daily-temperatures](https://github.com/YishakG/A2SV-Solutions/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/YishakG/A2SV-Solutions/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/YishakG/A2SV-Solutions/tree/master/0890-lemonade-change) |
@@ -41,6 +42,7 @@ This repo is dedicated to store the solutions to problems on Leetcode , Codeforc
 | [0442-find-all-duplicates-in-an-array](https://github.com/YishakG/A2SV-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/YishakG/A2SV-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/YishakG/A2SV-Solutions/tree/master/0496-next-greater-element-i) |
+| [0721-accounts-merge](https://github.com/YishakG/A2SV-Solutions/tree/master/0721-accounts-merge) |
 | [1039-find-the-town-judge](https://github.com/YishakG/A2SV-Solutions/tree/master/1039-find-the-town-judge) |
 ## Dynamic Programming
 |  |
@@ -115,6 +117,7 @@ This repo is dedicated to store the solutions to problems on Leetcode , Codeforc
 | [0268-missing-number](https://github.com/YishakG/A2SV-Solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/YishakG/A2SV-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/YishakG/A2SV-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0721-accounts-merge](https://github.com/YishakG/A2SV-Solutions/tree/master/0721-accounts-merge) |
 | [1018-largest-perimeter-triangle](https://github.com/YishakG/A2SV-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/YishakG/A2SV-Solutions/tree/master/3351-maximize-happiness-of-selected-children) |
 ## String
@@ -123,6 +126,7 @@ This repo is dedicated to store the solutions to problems on Leetcode , Codeforc
 | [0020-valid-parentheses](https://github.com/YishakG/A2SV-Solutions/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/YishakG/A2SV-Solutions/tree/master/0071-simplify-path) |
 | [0394-decode-string](https://github.com/YishakG/A2SV-Solutions/tree/master/0394-decode-string) |
+| [0721-accounts-merge](https://github.com/YishakG/A2SV-Solutions/tree/master/0721-accounts-merge) |
 | [0874-backspace-string-compare](https://github.com/YishakG/A2SV-Solutions/tree/master/0874-backspace-string-compare) |
 | [0886-score-of-parentheses](https://github.com/YishakG/A2SV-Solutions/tree/master/0886-score-of-parentheses) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/YishakG/A2SV-Solutions/tree/master/1341-split-a-string-in-balanced-strings) |
@@ -210,6 +214,7 @@ This repo is dedicated to store the solutions to problems on Leetcode , Codeforc
 | [0463-island-perimeter](https://github.com/YishakG/A2SV-Solutions/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/YishakG/A2SV-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/YishakG/A2SV-Solutions/tree/master/0684-redundant-connection) |
+| [0721-accounts-merge](https://github.com/YishakG/A2SV-Solutions/tree/master/0721-accounts-merge) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/YishakG/A2SV-Solutions/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0801-is-graph-bipartite](https://github.com/YishakG/A2SV-Solutions/tree/master/0801-is-graph-bipartite) |
 | [0922-possible-bipartition](https://github.com/YishakG/A2SV-Solutions/tree/master/0922-possible-bipartition) |
@@ -258,6 +263,7 @@ This repo is dedicated to store the solutions to problems on Leetcode , Codeforc
 | [0463-island-perimeter](https://github.com/YishakG/A2SV-Solutions/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/YishakG/A2SV-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/YishakG/A2SV-Solutions/tree/master/0684-redundant-connection) |
+| [0721-accounts-merge](https://github.com/YishakG/A2SV-Solutions/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/YishakG/A2SV-Solutions/tree/master/0801-is-graph-bipartite) |
 | [0922-possible-bipartition](https://github.com/YishakG/A2SV-Solutions/tree/master/0922-possible-bipartition) |
 | [2121-find-if-path-exists-in-graph](https://github.com/YishakG/A2SV-Solutions/tree/master/2121-find-if-path-exists-in-graph) |
@@ -277,6 +283,7 @@ This repo is dedicated to store the solutions to problems on Leetcode , Codeforc
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/YishakG/A2SV-Solutions/tree/master/0684-redundant-connection) |
+| [0721-accounts-merge](https://github.com/YishakG/A2SV-Solutions/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/YishakG/A2SV-Solutions/tree/master/0801-is-graph-bipartite) |
 | [0922-possible-bipartition](https://github.com/YishakG/A2SV-Solutions/tree/master/0922-possible-bipartition) |
 | [2121-find-if-path-exists-in-graph](https://github.com/YishakG/A2SV-Solutions/tree/master/2121-find-if-path-exists-in-graph) |
