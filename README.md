@@ -24,6 +24,7 @@ This repo is dedicated to store the solutions to problems on Leetcode , Codeforc
 | [0792-binary-search](https://github.com/YishakG/A2SV-Solutions/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/YishakG/A2SV-Solutions/tree/master/0890-lemonade-change) |
 | [1018-largest-perimeter-triangle](https://github.com/YishakG/A2SV-Solutions/tree/master/1018-largest-perimeter-triangle) |
+| [1032-satisfiability-of-equality-equations](https://github.com/YishakG/A2SV-Solutions/tree/master/1032-satisfiability-of-equality-equations) |
 | [1039-find-the-town-judge](https://github.com/YishakG/A2SV-Solutions/tree/master/1039-find-the-town-judge) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/YishakG/A2SV-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/YishakG/A2SV-Solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -129,6 +130,7 @@ This repo is dedicated to store the solutions to problems on Leetcode , Codeforc
 | [0721-accounts-merge](https://github.com/YishakG/A2SV-Solutions/tree/master/0721-accounts-merge) |
 | [0874-backspace-string-compare](https://github.com/YishakG/A2SV-Solutions/tree/master/0874-backspace-string-compare) |
 | [0886-score-of-parentheses](https://github.com/YishakG/A2SV-Solutions/tree/master/0886-score-of-parentheses) |
+| [1032-satisfiability-of-equality-equations](https://github.com/YishakG/A2SV-Solutions/tree/master/1032-satisfiability-of-equality-equations) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/YishakG/A2SV-Solutions/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/YishakG/A2SV-Solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1720-crawler-log-folder](https://github.com/YishakG/A2SV-Solutions/tree/master/1720-crawler-log-folder) |
@@ -286,6 +288,7 @@ This repo is dedicated to store the solutions to problems on Leetcode , Codeforc
 | [0721-accounts-merge](https://github.com/YishakG/A2SV-Solutions/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/YishakG/A2SV-Solutions/tree/master/0801-is-graph-bipartite) |
 | [0922-possible-bipartition](https://github.com/YishakG/A2SV-Solutions/tree/master/0922-possible-bipartition) |
+| [1032-satisfiability-of-equality-equations](https://github.com/YishakG/A2SV-Solutions/tree/master/1032-satisfiability-of-equality-equations) |
 | [2121-find-if-path-exists-in-graph](https://github.com/YishakG/A2SV-Solutions/tree/master/2121-find-if-path-exists-in-graph) |
 ## Graph
 |  |
@@ -294,6 +297,7 @@ This repo is dedicated to store the solutions to problems on Leetcode , Codeforc
 | [0684-redundant-connection](https://github.com/YishakG/A2SV-Solutions/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/YishakG/A2SV-Solutions/tree/master/0801-is-graph-bipartite) |
 | [0922-possible-bipartition](https://github.com/YishakG/A2SV-Solutions/tree/master/0922-possible-bipartition) |
+| [1032-satisfiability-of-equality-equations](https://github.com/YishakG/A2SV-Solutions/tree/master/1032-satisfiability-of-equality-equations) |
 | [1039-find-the-town-judge](https://github.com/YishakG/A2SV-Solutions/tree/master/1039-find-the-town-judge) |
 | [2121-find-if-path-exists-in-graph](https://github.com/YishakG/A2SV-Solutions/tree/master/2121-find-if-path-exists-in-graph) |
 ## Matrix
