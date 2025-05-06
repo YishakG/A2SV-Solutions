@@ -209,6 +209,7 @@ This repo is dedicated to store the solutions to problems on Leetcode , Codeforc
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/YishakG/A2SV-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0463-island-perimeter](https://github.com/YishakG/A2SV-Solutions/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/YishakG/A2SV-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0684-redundant-connection](https://github.com/YishakG/A2SV-Solutions/tree/master/0684-redundant-connection) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/YishakG/A2SV-Solutions/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0801-is-graph-bipartite](https://github.com/YishakG/A2SV-Solutions/tree/master/0801-is-graph-bipartite) |
 | [0922-possible-bipartition](https://github.com/YishakG/A2SV-Solutions/tree/master/0922-possible-bipartition) |
@@ -256,6 +257,7 @@ This repo is dedicated to store the solutions to problems on Leetcode , Codeforc
 | [0207-course-schedule](https://github.com/YishakG/A2SV-Solutions/tree/master/0207-course-schedule) |
 | [0463-island-perimeter](https://github.com/YishakG/A2SV-Solutions/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/YishakG/A2SV-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0684-redundant-connection](https://github.com/YishakG/A2SV-Solutions/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/YishakG/A2SV-Solutions/tree/master/0801-is-graph-bipartite) |
 | [0922-possible-bipartition](https://github.com/YishakG/A2SV-Solutions/tree/master/0922-possible-bipartition) |
 | [2121-find-if-path-exists-in-graph](https://github.com/YishakG/A2SV-Solutions/tree/master/2121-find-if-path-exists-in-graph) |
@@ -274,6 +276,7 @@ This repo is dedicated to store the solutions to problems on Leetcode , Codeforc
 ## Union Find
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/YishakG/A2SV-Solutions/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/YishakG/A2SV-Solutions/tree/master/0801-is-graph-bipartite) |
 | [0922-possible-bipartition](https://github.com/YishakG/A2SV-Solutions/tree/master/0922-possible-bipartition) |
 | [2121-find-if-path-exists-in-graph](https://github.com/YishakG/A2SV-Solutions/tree/master/2121-find-if-path-exists-in-graph) |
@@ -281,6 +284,7 @@ This repo is dedicated to store the solutions to problems on Leetcode , Codeforc
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/YishakG/A2SV-Solutions/tree/master/0207-course-schedule) |
+| [0684-redundant-connection](https://github.com/YishakG/A2SV-Solutions/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/YishakG/A2SV-Solutions/tree/master/0801-is-graph-bipartite) |
 | [0922-possible-bipartition](https://github.com/YishakG/A2SV-Solutions/tree/master/0922-possible-bipartition) |
 | [1039-find-the-town-judge](https://github.com/YishakG/A2SV-Solutions/tree/master/1039-find-the-town-judge) |
