@@ -22,6 +22,7 @@ This repo is dedicated to store the solutions to problems on Leetcode , Codeforc
 | [0721-accounts-merge](https://github.com/YishakG/A2SV-Solutions/tree/master/0721-accounts-merge) |
 | [0739-daily-temperatures](https://github.com/YishakG/A2SV-Solutions/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/YishakG/A2SV-Solutions/tree/master/0792-binary-search) |
+| [0854-making-a-large-island](https://github.com/YishakG/A2SV-Solutions/tree/master/0854-making-a-large-island) |
 | [0890-lemonade-change](https://github.com/YishakG/A2SV-Solutions/tree/master/0890-lemonade-change) |
 | [0999-regions-cut-by-slashes](https://github.com/YishakG/A2SV-Solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1018-largest-perimeter-triangle](https://github.com/YishakG/A2SV-Solutions/tree/master/1018-largest-perimeter-triangle) |
@@ -223,6 +224,7 @@ This repo is dedicated to store the solutions to problems on Leetcode , Codeforc
 | [0721-accounts-merge](https://github.com/YishakG/A2SV-Solutions/tree/master/0721-accounts-merge) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/YishakG/A2SV-Solutions/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0801-is-graph-bipartite](https://github.com/YishakG/A2SV-Solutions/tree/master/0801-is-graph-bipartite) |
+| [0854-making-a-large-island](https://github.com/YishakG/A2SV-Solutions/tree/master/0854-making-a-large-island) |
 | [0922-possible-bipartition](https://github.com/YishakG/A2SV-Solutions/tree/master/0922-possible-bipartition) |
 | [0999-regions-cut-by-slashes](https://github.com/YishakG/A2SV-Solutions/tree/master/0999-regions-cut-by-slashes) |
 | [2121-find-if-path-exists-in-graph](https://github.com/YishakG/A2SV-Solutions/tree/master/2121-find-if-path-exists-in-graph) |
@@ -273,6 +275,7 @@ This repo is dedicated to store the solutions to problems on Leetcode , Codeforc
 | [0684-redundant-connection](https://github.com/YishakG/A2SV-Solutions/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/YishakG/A2SV-Solutions/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/YishakG/A2SV-Solutions/tree/master/0801-is-graph-bipartite) |
+| [0854-making-a-large-island](https://github.com/YishakG/A2SV-Solutions/tree/master/0854-making-a-large-island) |
 | [0922-possible-bipartition](https://github.com/YishakG/A2SV-Solutions/tree/master/0922-possible-bipartition) |
 | [0999-regions-cut-by-slashes](https://github.com/YishakG/A2SV-Solutions/tree/master/0999-regions-cut-by-slashes) |
 | [2121-find-if-path-exists-in-graph](https://github.com/YishakG/A2SV-Solutions/tree/master/2121-find-if-path-exists-in-graph) |
@@ -294,6 +297,7 @@ This repo is dedicated to store the solutions to problems on Leetcode , Codeforc
 | [0684-redundant-connection](https://github.com/YishakG/A2SV-Solutions/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/YishakG/A2SV-Solutions/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/YishakG/A2SV-Solutions/tree/master/0801-is-graph-bipartite) |
+| [0854-making-a-large-island](https://github.com/YishakG/A2SV-Solutions/tree/master/0854-making-a-large-island) |
 | [0922-possible-bipartition](https://github.com/YishakG/A2SV-Solutions/tree/master/0922-possible-bipartition) |
 | [0999-regions-cut-by-slashes](https://github.com/YishakG/A2SV-Solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1032-satisfiability-of-equality-equations](https://github.com/YishakG/A2SV-Solutions/tree/master/1032-satisfiability-of-equality-equations) |
@@ -312,6 +316,7 @@ This repo is dedicated to store the solutions to problems on Leetcode , Codeforc
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/YishakG/A2SV-Solutions/tree/master/0463-island-perimeter) |
+| [0854-making-a-large-island](https://github.com/YishakG/A2SV-Solutions/tree/master/0854-making-a-large-island) |
 | [0999-regions-cut-by-slashes](https://github.com/YishakG/A2SV-Solutions/tree/master/0999-regions-cut-by-slashes) |
 ## Topological Sort
 |  |
