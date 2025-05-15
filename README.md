@@ -10,6 +10,7 @@ This repo is dedicated to store the solutions to problems on Leetcode , Codeforc
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/YishakG/A2SV-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0055-jump-game](https://github.com/YishakG/A2SV-Solutions/tree/master/0055-jump-game) |
 | [0119-pascals-triangle-ii](https://github.com/YishakG/A2SV-Solutions/tree/master/0119-pascals-triangle-ii) |
+| [0136-single-number](https://github.com/YishakG/A2SV-Solutions/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/YishakG/A2SV-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/YishakG/A2SV-Solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/YishakG/A2SV-Solutions/tree/master/0347-top-k-frequent-elements) |
@@ -172,6 +173,7 @@ This repo is dedicated to store the solutions to problems on Leetcode , Codeforc
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/YishakG/A2SV-Solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/YishakG/A2SV-Solutions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/YishakG/A2SV-Solutions/tree/master/0342-power-of-four) |
 ## Recursion
