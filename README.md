@@ -38,6 +38,7 @@ This repo is dedicated to store the solutions to problems on Leetcode , Codeforc
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/YishakG/A2SV-Solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/YishakG/A2SV-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1962-single-threaded-cpu](https://github.com/YishakG/A2SV-Solutions/tree/master/1962-single-threaded-cpu) |
+| [2478-longest-nice-subarray](https://github.com/YishakG/A2SV-Solutions/tree/master/2478-longest-nice-subarray) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/YishakG/A2SV-Solutions/tree/master/3351-maximize-happiness-of-selected-children) |
 ## Hash Table
 |  |
@@ -181,6 +182,7 @@ This repo is dedicated to store the solutions to problems on Leetcode , Codeforc
 | [0342-power-of-four](https://github.com/YishakG/A2SV-Solutions/tree/master/0342-power-of-four) |
 | [0461-hamming-distance](https://github.com/YishakG/A2SV-Solutions/tree/master/0461-hamming-distance) |
 | [0800-letter-case-permutation](https://github.com/YishakG/A2SV-Solutions/tree/master/0800-letter-case-permutation) |
+| [2478-longest-nice-subarray](https://github.com/YishakG/A2SV-Solutions/tree/master/2478-longest-nice-subarray) |
 ## Recursion
 |  |
 | ------- |
@@ -251,6 +253,7 @@ This repo is dedicated to store the solutions to problems on Leetcode , Codeforc
 |  |
 | ------- |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/YishakG/A2SV-Solutions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2478-longest-nice-subarray](https://github.com/YishakG/A2SV-Solutions/tree/master/2478-longest-nice-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
