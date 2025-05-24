@@ -39,6 +39,7 @@ This repo is dedicated to store the solutions to problems on Leetcode , Codeforc
 | [1951-find-the-winner-of-the-circular-game](https://github.com/YishakG/A2SV-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1962-single-threaded-cpu](https://github.com/YishakG/A2SV-Solutions/tree/master/1962-single-threaded-cpu) |
 | [2478-longest-nice-subarray](https://github.com/YishakG/A2SV-Solutions/tree/master/2478-longest-nice-subarray) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/YishakG/A2SV-Solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/YishakG/A2SV-Solutions/tree/master/3351-maximize-happiness-of-selected-children) |
 ## Hash Table
 |  |
@@ -158,6 +159,7 @@ This repo is dedicated to store the solutions to problems on Leetcode , Codeforc
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/YishakG/A2SV-Solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/YishakG/A2SV-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2470-removing-stars-from-a-string](https://github.com/YishakG/A2SV-Solutions/tree/master/2470-removing-stars-from-a-string) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/YishakG/A2SV-Solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Queue
 |  |
 | ------- |
@@ -262,6 +264,7 @@ This repo is dedicated to store the solutions to problems on Leetcode , Codeforc
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/YishakG/A2SV-Solutions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1955-seat-reservation-manager](https://github.com/YishakG/A2SV-Solutions/tree/master/1955-seat-reservation-manager) |
 | [1962-single-threaded-cpu](https://github.com/YishakG/A2SV-Solutions/tree/master/1962-single-threaded-cpu) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/YishakG/A2SV-Solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Monotonic Queue
 |  |
 | ------- |
