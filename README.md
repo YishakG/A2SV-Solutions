@@ -87,6 +87,7 @@ This repo is dedicated to store the solutions to problems on Leetcode , Codeforc
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/YishakG/A2SV-Solutions/tree/master/0969-number-of-recent-calls) |
 | [1582-design-browser-history](https://github.com/YishakG/A2SV-Solutions/tree/master/1582-design-browser-history) |
+| [1955-seat-reservation-manager](https://github.com/YishakG/A2SV-Solutions/tree/master/1955-seat-reservation-manager) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -259,6 +260,7 @@ This repo is dedicated to store the solutions to problems on Leetcode , Codeforc
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/YishakG/A2SV-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/YishakG/A2SV-Solutions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1955-seat-reservation-manager](https://github.com/YishakG/A2SV-Solutions/tree/master/1955-seat-reservation-manager) |
 | [1962-single-threaded-cpu](https://github.com/YishakG/A2SV-Solutions/tree/master/1962-single-threaded-cpu) |
 ## Monotonic Queue
 |  |
