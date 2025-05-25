@@ -32,6 +32,7 @@ This repo is dedicated to store the solutions to problems on Leetcode , Codeforc
 | [1039-find-the-town-judge](https://github.com/YishakG/A2SV-Solutions/tree/master/1039-find-the-town-judge) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/YishakG/A2SV-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/YishakG/A2SV-Solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1435-xor-queries-of-a-subarray](https://github.com/YishakG/A2SV-Solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/YishakG/A2SV-Solutions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1582-design-browser-history](https://github.com/YishakG/A2SV-Solutions/tree/master/1582-design-browser-history) |
 | [1720-crawler-log-folder](https://github.com/YishakG/A2SV-Solutions/tree/master/1720-crawler-log-folder) |
@@ -187,6 +188,7 @@ This repo is dedicated to store the solutions to problems on Leetcode , Codeforc
 | [0342-power-of-four](https://github.com/YishakG/A2SV-Solutions/tree/master/0342-power-of-four) |
 | [0461-hamming-distance](https://github.com/YishakG/A2SV-Solutions/tree/master/0461-hamming-distance) |
 | [0800-letter-case-permutation](https://github.com/YishakG/A2SV-Solutions/tree/master/0800-letter-case-permutation) |
+| [1435-xor-queries-of-a-subarray](https://github.com/YishakG/A2SV-Solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [2478-longest-nice-subarray](https://github.com/YishakG/A2SV-Solutions/tree/master/2478-longest-nice-subarray) |
 | [2621-find-xor-beauty-of-array](https://github.com/YishakG/A2SV-Solutions/tree/master/2621-find-xor-beauty-of-array) |
 ## Recursion
@@ -342,4 +344,8 @@ This repo is dedicated to store the solutions to problems on Leetcode , Codeforc
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/YishakG/A2SV-Solutions/tree/master/0207-course-schedule) |
+## Prefix Sum
+|  |
+| ------- |
+| [1435-xor-queries-of-a-subarray](https://github.com/YishakG/A2SV-Solutions/tree/master/1435-xor-queries-of-a-subarray) |
 <!---LeetCode Topics End-->
