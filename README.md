@@ -35,6 +35,7 @@ This repo is dedicated to store the solutions to problems on Leetcode , Codeforc
 | [1435-xor-queries-of-a-subarray](https://github.com/YishakG/A2SV-Solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/YishakG/A2SV-Solutions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1582-design-browser-history](https://github.com/YishakG/A2SV-Solutions/tree/master/1582-design-browser-history) |
+| [1706-min-cost-to-connect-all-points](https://github.com/YishakG/A2SV-Solutions/tree/master/1706-min-cost-to-connect-all-points) |
 | [1720-crawler-log-folder](https://github.com/YishakG/A2SV-Solutions/tree/master/1720-crawler-log-folder) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/YishakG/A2SV-Solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/YishakG/A2SV-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -323,6 +324,7 @@ This repo is dedicated to store the solutions to problems on Leetcode , Codeforc
 | [0922-possible-bipartition](https://github.com/YishakG/A2SV-Solutions/tree/master/0922-possible-bipartition) |
 | [0999-regions-cut-by-slashes](https://github.com/YishakG/A2SV-Solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1032-satisfiability-of-equality-equations](https://github.com/YishakG/A2SV-Solutions/tree/master/1032-satisfiability-of-equality-equations) |
+| [1706-min-cost-to-connect-all-points](https://github.com/YishakG/A2SV-Solutions/tree/master/1706-min-cost-to-connect-all-points) |
 | [2121-find-if-path-exists-in-graph](https://github.com/YishakG/A2SV-Solutions/tree/master/2121-find-if-path-exists-in-graph) |
 ## Graph
 |  |
@@ -333,6 +335,7 @@ This repo is dedicated to store the solutions to problems on Leetcode , Codeforc
 | [0922-possible-bipartition](https://github.com/YishakG/A2SV-Solutions/tree/master/0922-possible-bipartition) |
 | [1032-satisfiability-of-equality-equations](https://github.com/YishakG/A2SV-Solutions/tree/master/1032-satisfiability-of-equality-equations) |
 | [1039-find-the-town-judge](https://github.com/YishakG/A2SV-Solutions/tree/master/1039-find-the-town-judge) |
+| [1706-min-cost-to-connect-all-points](https://github.com/YishakG/A2SV-Solutions/tree/master/1706-min-cost-to-connect-all-points) |
 | [2121-find-if-path-exists-in-graph](https://github.com/YishakG/A2SV-Solutions/tree/master/2121-find-if-path-exists-in-graph) |
 ## Matrix
 |  |
@@ -348,4 +351,8 @@ This repo is dedicated to store the solutions to problems on Leetcode , Codeforc
 |  |
 | ------- |
 | [1435-xor-queries-of-a-subarray](https://github.com/YishakG/A2SV-Solutions/tree/master/1435-xor-queries-of-a-subarray) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/YishakG/A2SV-Solutions/tree/master/1706-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
