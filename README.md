@@ -45,6 +45,7 @@ This repo is dedicated to store the solutions to problems on Leetcode , Codeforc
 | [2621-find-xor-beauty-of-array](https://github.com/YishakG/A2SV-Solutions/tree/master/2621-find-xor-beauty-of-array) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/YishakG/A2SV-Solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/YishakG/A2SV-Solutions/tree/master/3351-maximize-happiness-of-selected-children) |
+| [3764-maximum-sum-with-at-most-k-elements](https://github.com/YishakG/A2SV-Solutions/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -126,6 +127,7 @@ This repo is dedicated to store the solutions to problems on Leetcode , Codeforc
 | [1341-split-a-string-in-balanced-strings](https://github.com/YishakG/A2SV-Solutions/tree/master/1341-split-a-string-in-balanced-strings) |
 | [3055-maximum-odd-binary-number](https://github.com/YishakG/A2SV-Solutions/tree/master/3055-maximum-odd-binary-number) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/YishakG/A2SV-Solutions/tree/master/3351-maximize-happiness-of-selected-children) |
+| [3764-maximum-sum-with-at-most-k-elements](https://github.com/YishakG/A2SV-Solutions/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -136,6 +138,7 @@ This repo is dedicated to store the solutions to problems on Leetcode , Codeforc
 | [1018-largest-perimeter-triangle](https://github.com/YishakG/A2SV-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1962-single-threaded-cpu](https://github.com/YishakG/A2SV-Solutions/tree/master/1962-single-threaded-cpu) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/YishakG/A2SV-Solutions/tree/master/3351-maximize-happiness-of-selected-children) |
+| [3764-maximum-sum-with-at-most-k-elements](https://github.com/YishakG/A2SV-Solutions/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## String
 |  |
 | ------- |
@@ -273,6 +276,7 @@ This repo is dedicated to store the solutions to problems on Leetcode , Codeforc
 | [1955-seat-reservation-manager](https://github.com/YishakG/A2SV-Solutions/tree/master/1955-seat-reservation-manager) |
 | [1962-single-threaded-cpu](https://github.com/YishakG/A2SV-Solutions/tree/master/1962-single-threaded-cpu) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/YishakG/A2SV-Solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3764-maximum-sum-with-at-most-k-elements](https://github.com/YishakG/A2SV-Solutions/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -346,6 +350,7 @@ This repo is dedicated to store the solutions to problems on Leetcode , Codeforc
 | [0463-island-perimeter](https://github.com/YishakG/A2SV-Solutions/tree/master/0463-island-perimeter) |
 | [0854-making-a-large-island](https://github.com/YishakG/A2SV-Solutions/tree/master/0854-making-a-large-island) |
 | [0999-regions-cut-by-slashes](https://github.com/YishakG/A2SV-Solutions/tree/master/0999-regions-cut-by-slashes) |
+| [3764-maximum-sum-with-at-most-k-elements](https://github.com/YishakG/A2SV-Solutions/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Topological Sort
 |  |
 | ------- |
