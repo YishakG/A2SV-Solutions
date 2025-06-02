@@ -241,6 +241,7 @@ This repo is dedicated to store the solutions to problems on Leetcode , Codeforc
 | [0145-binary-tree-postorder-traversal](https://github.com/YishakG/A2SV-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0207-course-schedule](https://github.com/YishakG/A2SV-Solutions/tree/master/0207-course-schedule) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/YishakG/A2SV-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0310-minimum-height-trees](https://github.com/YishakG/A2SV-Solutions/tree/master/0310-minimum-height-trees) |
 | [0463-island-perimeter](https://github.com/YishakG/A2SV-Solutions/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/YishakG/A2SV-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/YishakG/A2SV-Solutions/tree/master/0684-redundant-connection) |
@@ -300,6 +301,7 @@ This repo is dedicated to store the solutions to problems on Leetcode , Codeforc
 | ------- |
 | [0101-symmetric-tree](https://github.com/YishakG/A2SV-Solutions/tree/master/0101-symmetric-tree) |
 | [0207-course-schedule](https://github.com/YishakG/A2SV-Solutions/tree/master/0207-course-schedule) |
+| [0310-minimum-height-trees](https://github.com/YishakG/A2SV-Solutions/tree/master/0310-minimum-height-trees) |
 | [0463-island-perimeter](https://github.com/YishakG/A2SV-Solutions/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/YishakG/A2SV-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/YishakG/A2SV-Solutions/tree/master/0684-redundant-connection) |
@@ -338,6 +340,7 @@ This repo is dedicated to store the solutions to problems on Leetcode , Codeforc
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/YishakG/A2SV-Solutions/tree/master/0207-course-schedule) |
+| [0310-minimum-height-trees](https://github.com/YishakG/A2SV-Solutions/tree/master/0310-minimum-height-trees) |
 | [0684-redundant-connection](https://github.com/YishakG/A2SV-Solutions/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/YishakG/A2SV-Solutions/tree/master/0801-is-graph-bipartite) |
 | [0881-loud-and-rich](https://github.com/YishakG/A2SV-Solutions/tree/master/0881-loud-and-rich) |
@@ -357,6 +360,7 @@ This repo is dedicated to store the solutions to problems on Leetcode , Codeforc
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/YishakG/A2SV-Solutions/tree/master/0207-course-schedule) |
+| [0310-minimum-height-trees](https://github.com/YishakG/A2SV-Solutions/tree/master/0310-minimum-height-trees) |
 | [0881-loud-and-rich](https://github.com/YishakG/A2SV-Solutions/tree/master/0881-loud-and-rich) |
 ## Prefix Sum
 |  |
