@@ -42,6 +42,7 @@ This repo is dedicated to store the solutions to problems on Leetcode , Codeforc
 | [1951-find-the-winner-of-the-circular-game](https://github.com/YishakG/A2SV-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1962-single-threaded-cpu](https://github.com/YishakG/A2SV-Solutions/tree/master/1962-single-threaded-cpu) |
 | [2478-longest-nice-subarray](https://github.com/YishakG/A2SV-Solutions/tree/master/2478-longest-nice-subarray) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/YishakG/A2SV-Solutions/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2621-find-xor-beauty-of-array](https://github.com/YishakG/A2SV-Solutions/tree/master/2621-find-xor-beauty-of-array) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/YishakG/A2SV-Solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/YishakG/A2SV-Solutions/tree/master/3351-maximize-happiness-of-selected-children) |
@@ -198,6 +199,7 @@ This repo is dedicated to store the solutions to problems on Leetcode , Codeforc
 | [0800-letter-case-permutation](https://github.com/YishakG/A2SV-Solutions/tree/master/0800-letter-case-permutation) |
 | [1435-xor-queries-of-a-subarray](https://github.com/YishakG/A2SV-Solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [2478-longest-nice-subarray](https://github.com/YishakG/A2SV-Solutions/tree/master/2478-longest-nice-subarray) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/YishakG/A2SV-Solutions/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2621-find-xor-beauty-of-array](https://github.com/YishakG/A2SV-Solutions/tree/master/2621-find-xor-beauty-of-array) |
 ## Recursion
 |  |
