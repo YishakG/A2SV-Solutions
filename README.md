@@ -63,6 +63,7 @@ This repo is dedicated to store the solutions to problems on Leetcode , Codeforc
 | ------- |
 | [0055-jump-game](https://github.com/YishakG/A2SV-Solutions/tree/master/0055-jump-game) |
 | [0119-pascals-triangle-ii](https://github.com/YishakG/A2SV-Solutions/tree/master/0119-pascals-triangle-ii) |
+| [0338-counting-bits](https://github.com/YishakG/A2SV-Solutions/tree/master/0338-counting-bits) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/YishakG/A2SV-Solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Linked List
 |  |
@@ -191,6 +192,7 @@ This repo is dedicated to store the solutions to problems on Leetcode , Codeforc
 | [0078-subsets](https://github.com/YishakG/A2SV-Solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/YishakG/A2SV-Solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/YishakG/A2SV-Solutions/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/YishakG/A2SV-Solutions/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/YishakG/A2SV-Solutions/tree/master/0342-power-of-four) |
 | [0461-hamming-distance](https://github.com/YishakG/A2SV-Solutions/tree/master/0461-hamming-distance) |
 | [0800-letter-case-permutation](https://github.com/YishakG/A2SV-Solutions/tree/master/0800-letter-case-permutation) |
