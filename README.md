@@ -20,6 +20,7 @@ This repo is dedicated to store the solutions to problems on Leetcode , Codeforc
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/YishakG/A2SV-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0456-132-pattern](https://github.com/YishakG/A2SV-Solutions/tree/master/0456-132-pattern) |
 | [0463-island-perimeter](https://github.com/YishakG/A2SV-Solutions/tree/master/0463-island-perimeter) |
+| [0486-predict-the-winner](https://github.com/YishakG/A2SV-Solutions/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/YishakG/A2SV-Solutions/tree/master/0496-next-greater-element-i) |
 | [0721-accounts-merge](https://github.com/YishakG/A2SV-Solutions/tree/master/0721-accounts-merge) |
 | [0739-daily-temperatures](https://github.com/YishakG/A2SV-Solutions/tree/master/0739-daily-temperatures) |
@@ -65,6 +66,7 @@ This repo is dedicated to store the solutions to problems on Leetcode , Codeforc
 | [0055-jump-game](https://github.com/YishakG/A2SV-Solutions/tree/master/0055-jump-game) |
 | [0119-pascals-triangle-ii](https://github.com/YishakG/A2SV-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0338-counting-bits](https://github.com/YishakG/A2SV-Solutions/tree/master/0338-counting-bits) |
+| [0486-predict-the-winner](https://github.com/YishakG/A2SV-Solutions/tree/master/0486-predict-the-winner) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/YishakG/A2SV-Solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Linked List
 |  |
@@ -113,6 +115,7 @@ This repo is dedicated to store the solutions to problems on Leetcode , Codeforc
 | [0172-factorial-trailing-zeroes](https://github.com/YishakG/A2SV-Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0268-missing-number](https://github.com/YishakG/A2SV-Solutions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/YishakG/A2SV-Solutions/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/YishakG/A2SV-Solutions/tree/master/0486-predict-the-winner) |
 | [1018-largest-perimeter-triangle](https://github.com/YishakG/A2SV-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/YishakG/A2SV-Solutions/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/YishakG/A2SV-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -207,6 +210,7 @@ This repo is dedicated to store the solutions to problems on Leetcode , Codeforc
 | [0050-powx-n](https://github.com/YishakG/A2SV-Solutions/tree/master/0050-powx-n) |
 | [0342-power-of-four](https://github.com/YishakG/A2SV-Solutions/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/YishakG/A2SV-Solutions/tree/master/0394-decode-string) |
+| [0486-predict-the-winner](https://github.com/YishakG/A2SV-Solutions/tree/master/0486-predict-the-winner) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/YishakG/A2SV-Solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/YishakG/A2SV-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Binary Search
@@ -374,4 +378,8 @@ This repo is dedicated to store the solutions to problems on Leetcode , Codeforc
 |  |
 | ------- |
 | [1706-min-cost-to-connect-all-points](https://github.com/YishakG/A2SV-Solutions/tree/master/1706-min-cost-to-connect-all-points) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/YishakG/A2SV-Solutions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
