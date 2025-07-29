@@ -3,7 +3,8 @@ class Solution:
         """
         n + -
         n odd even
-        
+        Time Complexity: O(log n)
+        Space Complexity: O(log n)
         """
         if n == 0:
             return 1
@@ -22,5 +23,3 @@ class Solution:
             return 1 / ans
         
         return ans
-
-        
